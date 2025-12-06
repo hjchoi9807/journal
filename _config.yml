@@ -1,0 +1,12 @@
+title: "최효주의 워홀 일지"
+baseurl: "/journal"
+url: "https://hjchoi9807.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.33.0"
+plugins:
+  - jekyll-remote-theme
+
+header_pages:
+  - index.md
+  - _pages/checklist.md
+  - _pages/resources.md
