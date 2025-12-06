@@ -2,9 +2,10 @@ title: "최효주의 워홀 일지"
 baseurl: "/journal"
 url: "https://hjchoi9807.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes@4.33.0"
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages:
   - index.md
